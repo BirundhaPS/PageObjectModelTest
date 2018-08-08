@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49303" started-at="2018-08-08T15:17:41Z" finished-at="2018-08-08T15:18:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49303" started-at="2018-08-08T15:17:41Z" finished-at="2018-08-08T15:18:31Z">
+      <class name="Selenium01.PageObjectModel.RegisterAccount">
+        <test-method status="PASS" signature="startProcess()[pri:0, instance:Selenium01.PageObjectModel.RegisterAccount@3aeaafa6]" name="startProcess" is-config="true" duration-ms="32845" started-at="2018-08-08T15:17:42Z" finished-at="2018-08-08T15:18:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startProcess -->
+        <test-method status="PASS" signature="CustomerRegister()[pri:0, instance:Selenium01.PageObjectModel.RegisterAccount@3aeaafa6]" name="CustomerRegister" duration-ms="16340" started-at="2018-08-08T15:18:14Z" finished-at="2018-08-08T15:18:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomerRegister -->
+        <test-method status="PASS" signature="EndProcess()[pri:0, instance:Selenium01.PageObjectModel.RegisterAccount@3aeaafa6]" name="EndProcess" is-config="true" duration-ms="0" started-at="2018-08-08T15:18:31Z" finished-at="2018-08-08T15:18:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndProcess -->
+      </class> <!-- Selenium01.PageObjectModel.RegisterAccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
